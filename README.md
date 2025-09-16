@@ -39,8 +39,7 @@ The application allows users to upload datasets, explore correlations and averag
 - Built a **Multiple Linear Regression** model using one-hot encoding for categorical variables.
 - Split dataset: 80% training, 20% testing.
 - **Performance:**
-  - R² = **0.758** (75.8% variance explained)
-  - MSE ≈ **37,175,951**
+  - R² = **0.758**
 - Feature impact: Smoking, BMI, and Age were strongest predictors of insurance charges.
 
 ---
