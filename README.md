@@ -2,9 +2,7 @@
 
 ## 📌 Overview
 
-This project was developed for my **CS301: Data Science** class. The goal was to analyze healthcare insurance data and build predictive models for medical insurance charges. Over four milestones, we progressed from exploratory data analysis (EDA) to regression modeling, ensemble learning and finally deploying an interactive web application using **Dash**.
-
-The application allows users to upload datasets, explore correlations and averages, train regression models and make predictions on new data.
+This project was developed for my **CS301: Data Science** class. The goal was to analyze healthcare insurance data and build predictive models for medical insurance charges. Over four milestones, we progressed from exploratory data analysis (EDA) to regression modeling, ensemble learning and finally deploying an interactive web application using **Dash**. The application allows users to upload datasets, explore correlations and averages, train regression models and make predictions on new data.
 
 ## 🔗 **Live Demo:** [Data Analysis App on Render](https://dash-app2.onrender.com/)
 
