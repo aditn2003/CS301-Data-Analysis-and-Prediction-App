@@ -6,13 +6,11 @@ This project was developed for my **CS301: Data Science** class. The goal was to
 
 The application allows users to upload datasets, explore correlations and averages, train regression models and make predictions on new data.
 
-🔗 **Live Demo:** [Data Analysis App on Render](https://dash-app2.onrender.com/) :contentReference[oaicite:0]{index=0}
-
----
+## 🔗 **Live Demo:** [Data Analysis App on Render](https://dash-app2.onrender.com/)
 
 ## 📂 Dataset
 
-- **Source:** [Kaggle – Insurance Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance/data) :contentReference[oaicite:1]{index=1}
+- **Source:** [Kaggle – Insurance Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance/data)
 - **Size:** 1,338 rows × 7 columns
 - **Features:**
   - `age` – Age of the insured individual
@@ -27,7 +25,7 @@ The application allows users to upload datasets, explore correlations and averag
 
 ## 🚀 Milestones
 
-### 🔹 Milestone 1 – Dataset Exploration:contentReference[oaicite:2]{index=2}
+### 🔹 Milestone 1 – Dataset Exploration
 
 - Explored dataset structure and features.
 - Verified data quality (no missing values, outliers checked).
@@ -36,7 +34,7 @@ The application allows users to upload datasets, explore correlations and averag
 
 ---
 
-### 🔹 Milestone 2 – Multiple Regression Model:contentReference[oaicite:3]{index=3}
+### 🔹 Milestone 2 – Multiple Regression Model
 
 - Built a **Multiple Linear Regression** model using one-hot encoding for categorical variables.
 - Split dataset: 80% training, 20% testing.
@@ -47,7 +45,7 @@ The application allows users to upload datasets, explore correlations and averag
 
 ---
 
-### 🔹 Milestone 3 – Model Comparison & Ensembles:contentReference[oaicite:4]{index=4}
+### 🔹 Milestone 3 – Model Comparison & Ensembles
 
 - Tested base models: Linear Regression, KNN, Decision Tree.
 - Introduced **Bagging** and **Stacking** for improved performance.
@@ -57,7 +55,7 @@ The application allows users to upload datasets, explore correlations and averag
 
 ---
 
-### 🔹 Milestone 4 – Deployment & App:contentReference[oaicite:5]{index=5}
+### 🔹 Milestone 4 – Deployment & App
 
 - Built an interactive **Dash web app** (`app1.py`).
 - Key Features:
