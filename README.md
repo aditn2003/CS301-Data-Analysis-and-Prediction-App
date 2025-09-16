@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project was developed for my **CS301: Data Science** class. The goal was to analyze healthcare insurance data and build predictive models for medical insurance charges. Over four milestones, we progressed from exploratory data analysis (EDA) to regression modeling, ensemble learning, and finally deploying an interactive web application using **Dash**.
+This project was developed for my **CS301: Data Science** class. The goal was to analyze healthcare insurance data and build predictive models for medical insurance charges. Over four milestones, we progressed from exploratory data analysis (EDA) to regression modeling, ensemble learning and finally deploying an interactive web application using **Dash**.
 
 The application allows users to upload datasets, explore correlations and averages, train regression models and make predictions on new data.
 
@@ -80,8 +80,8 @@ The application allows users to upload datasets, explore correlations and averag
 
 ## 📊 Results
 
-- Regression R² scores improved across milestones (0.758 → 0.8792).
+- Regression R² scores improved across milestones (0.758 → 0.8792)
 
-- Random Forest with Bagging gave the best performance.
+- Random Forest with Bagging gave the best performance
 
-- Interactive app enables hands-on exploration of healthcare datasets and predictions.
+- Interactive app enables hands-on exploration of healthcare datasets and predictions
