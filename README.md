@@ -79,7 +79,5 @@ This project was developed for my **CS301: Data Science** class. The goal was to
 ## 📊 Results
 
 - Regression R² scores improved across milestones (0.758 → 0.8792)
-
 - Random Forest with Bagging gave the best performance
-
 - Interactive app enables hands-on exploration of healthcare datasets and predictions
